@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: anotherpackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/stephane-masamba/anotherpackage
+Author: stephane masamba
+Author-email: sm.masamba@gmail.com
+License: MIT
+Description: I'm trying again with a simple add function 
+Platform: UNKNOWN
